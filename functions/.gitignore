@@ -1,0 +1,13 @@
+# Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+
+# serviceAccount key
+*serviceAccount.json
+*runtimeconfig.json
